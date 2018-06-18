@@ -10,6 +10,9 @@
         Team Expenzing
     </author> 
     <content src="index.html" />
+	
+	<preference name="phonegap-version" value="3.3.0"/>
+	
     <preference name="permissions" value="none" />
     <preference name="orientation" value="portrait" />
     <preference name="target-device" value="handset" />
